@@ -1,0 +1,9 @@
+{
+  "name": "evobot",
+  "version": "1.0.0",
+  "description": "EvoBot is the new revolutionning Discord bot, which is basically a toolbox which can be extended by customizable plugins by everyone.",
+  "main": "index.js",
+  "repository": "https://github.com/Skythrew/evobot",
+  "author": "Skythrew <mael.guerin@outlook.fr>",
+  "license": "GPL-3.0+"
+}
